@@ -17,4 +17,4 @@ maintainers:
 name: linkerd2
 sources:
 - https://github.com/arj22/linkerd2/
-version: v0.1.0
+version: v0.2.0
