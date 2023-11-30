@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  partials:
+  - apiVersion: v1
+    created: "2023-11-30T15:02:02.6728-06:00"
+    description: 'A Helm chart containing Linkerd partial templates, depended by the
+      ''linkerd'' and ''patch'' charts. '
+    digest: a6c2f9af34997c968fd01585c34f9ea25ca0a4bd41ce858af507afbe7fee711a
+    name: partials
+    urls:
+    - https://github.com/arj22/linkerd2/partials-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-30T15:02:02.672406-06:00"
