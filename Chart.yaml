@@ -16,5 +16,5 @@ maintainers:
   url: https://linkerd.io/
 name: linkerd2
 sources:
-- https://github.com/linkerd/linkerd2/
-version: 2.11.5
+- https://github.com/arj22/linkerd2/
+version: v0.1.0
